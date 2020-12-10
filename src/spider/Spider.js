@@ -4,7 +4,7 @@ this.r=r
 this.c=c
 this.grid=grid
 this.grid[r][c]=this
-//this.start()
+this.start()
 
     }
     //let pacman=findOnMap(gm.grid, Pacman)
